@@ -24,6 +24,26 @@ const newsData = [
   // },
 
   {
+    id: 12,
+    title: "A Letter to Our Colleagues, Community Partners, and Client Families",
+    date: "January 17, 2025",
+    author: "",
+    preface: [""],
+    img: "./images/news_images/ceo_letter1.png",
+    imgDesc: "A Letter to Our Colleagues, Community Partners, and Client Families", 
+    video:"",
+    video_desc: "",
+    second_image: "",
+    second_img_desc: "",
+    body: ["In 2018, at the height of the Trump administration’s policy of separating families at the southern border, I spent a week in Texas volunteering with a legal services organization that served fathers and their children who had been detained by ICE. One father recounted his story of fleeing extreme violence, and then, with tears streaming down his face, told me about the moment the US government took away his son: “One morning I woke up and he wasn’t there. When I realized he was gone, my head hurt so badly I thought it would split open, my stomach hurt so much that I couldn’t eat. It was the worst pain I have ever experienced in my life.”","I have since heard his grief echoed hundreds of times – not from asylum seekers in ICE detention facilities, but from families here in Santa Clara County torn apart through the child welfare system. Their shared pain reminds me that the scales of justice or injustice do not tilt in a vacuum: the fight to protect the integrity of immigrant families is a cause with which we as family defenders are in deep solidarity.","As we face the coming years of unknown challenges, we at DAC hold firm to our mission of family defense and family unity. Just as we have always done, we will support our communities as they move towards liberation even in the midst of overwhelming systemic failures and challenge","Remembering that our advocacy is always tied to the work of others, we commit to lifting up our partners: stepping back to center and support your advocacy when needed, and stepping up when our energy is required. We reject the spirit of opportunism and self-promotion that too often arise and divide allies from one another in moments such as these.","Most of all, we commit to living into unequivocal and unwavering allyship with the communities facing escalating threat in this moment: Black, brown, indigenous and people of color, immigrants, the LGBTQ+ community, people with disabilities, people living in conditions of poverty, and many others. So many of the families we serve are already harmed by existing power systems, and we know that the coming changes may bring even greater systemic violence. Our allyship extends not only to them, but also internally to our staff, and externally to our greater network of local and national partners.","This is a daunting and uncertain time, and I would be lying if I said I was not afraid and disheartened. But as we settle in and prepare, I am comforted by a deep belief in our capacity to come together in love, in defiant joy, and in defense of the rights and dignity of the most disenfranchised.","In solidarity,","Katie Joh","CEO, Dependency Advocacy Center "],
+    footer: [""],
+    copyright: [""],
+    article_link_copy: "",
+    article_link: "",
+
+    url: "/updates-articles"
+  },
+  {
     id: 11,
     title: "Remembering DAC Co-Founder, AnnaLisa Chung",
     date: "November 4, 2024",
