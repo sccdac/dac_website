@@ -84,27 +84,27 @@ const newsData = [
 
     url: "/updates-articles"
   },
-  {
-    id: 8,
-    title: "We’re Hiring!",
-    date: "July 1, 2024",
-    author: "",
-    preface: [""],
-    img: "./images/news_images/corridor_MA.jpg",
-    imgDesc: "Corridor Managing Attorney Hiring Notice", 
-    video:"",
-    video_desc: "",
-    second_image: "",
-    second_img_desc: "",
-    body: ["DAC is looking for a Managing Attorney for our Corridor program! Corridor is an innovative program that supports parents who find themselves at the intersection of the criminal justice and child welfare systems. We are looking to hire someone who is dedicated to creating access to justice for families, and able to manage a multidisciplinary team of attorneys, social workers, and lawyers."],
-    footer: [""],
-    copyright: [""],
-    article_link_copy: "Apply today at ",
-    article_link_last_word: "www.sccdac.org/careers",
-    article_link: "https://www.sccdac.org/careers",
+  // {
+  //   id: 8,
+  //   title: "We’re Hiring!",
+  //   date: "July 1, 2024",
+  //   author: "",
+  //   preface: [""],
+  //   img: "./images/news_images/corridor_MA.jpg",
+  //   imgDesc: "Corridor Managing Attorney Hiring Notice", 
+  //   video:"",
+  //   video_desc: "",
+  //   second_image: "",
+  //   second_img_desc: "",
+  //   body: ["DAC is looking for a Managing Attorney for our Corridor program! Corridor is an innovative program that supports parents who find themselves at the intersection of the criminal justice and child welfare systems. We are looking to hire someone who is dedicated to creating access to justice for families, and able to manage a multidisciplinary team of attorneys, social workers, and lawyers."],
+  //   footer: [""],
+  //   copyright: [""],
+  //   article_link_copy: "Apply today at ",
+  //   article_link_last_word: "www.sccdac.org/careers",
+  //   article_link: "https://www.sccdac.org/careers",
 
-    url: "/updates-articles"
-  },
+  //   url: "/updates-articles"
+  // },
   {
     id: 7,
     title: "Cynthia Chen, Appointed as a Judge in the Santa Clara County Superior Court",
