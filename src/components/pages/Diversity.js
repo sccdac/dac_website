@@ -19,7 +19,7 @@ export default function Diversity() {
 
        
 
-        <p className='copy'>At the Dependency Advocacy Center, our mission is to create an inclusive, equitable, and accessible environment where respect, kindness, and empathy guide all interactions with our staff, stakeholders, and clients. We are dedicated to fostering a culture of diversity, equity, and inclusion within our organization. We firmly believe that every parent and child entering the dependency system deserves to be treated with dignity, compassion, and respect. These values are not only applicable to our clients but also extend to all staff members.</p>
+        <p className='copy'>At Dependency Advocacy Center, our mission is to create an inclusive, equitable, and accessible environment where respect, kindness, and empathy guide all interactions with our staff, stakeholders, and clients. We are dedicated to fostering a culture of diversity, equity, and inclusion within our organization. We firmly believe that every parent and child entering the dependency system deserves to be treated with dignity, compassion, and respect. These values are not only applicable to our clients but also extend to all staff members.</p>
 
         <p className='diversity-copy copy'>We are committed to continuous learning and self-reflection on matters concerning diversity, equity, inclusion, and accessibility. Through ongoing education, training, and critical analysis of our progress, we seek to deepen our understanding and awareness of these issues and the impact it has on our clients and staff members. By doing so, we can more effectively advocate for clients and promote all aspects of inclusion, including diverse representation in our leadership and staff.</p>
 
