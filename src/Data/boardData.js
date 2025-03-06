@@ -110,6 +110,17 @@ export const boardData = [
         showBio: false,
       },
       {
+        board_id: 12,
+        prefix_name: "",
+        first_name: "Theresa",
+        last_name: "Sutton",
+        suffix_name: "J.D.",
+        title: "",
+        img: "./images/board_images/default.png",
+        bio: "Theresa Sutton is counsel at Goodwin Procter LLP in the firm’s Intellectual Property Litigation department focusing on complex commercial litigation. She joined the firm in 2020. Her practice includes counseling, litigating and resolving business disputes with an emphasis on trade secrets, fraud, contracts, and internet-related matters. Theresa volunteered with the Santa Clara County District Attorney’s Office as a Deputy District Attorney, in the Misdemeanor unit. Theresa investigated and tried misdemeanor cases including DUIs, child endangerment, and fraud. While attending law school, Theresa received the Public Interest Award for her work representing children and families navigating Santa Clara County’s juvenile dependency system.",
+        showBio: false,
+      },
+      {
         board_id: 1,
         prefix_name: "Honorable",
         first_name: "Patrick E.",
@@ -120,15 +131,5 @@ export const boardData = [
         bio: "Patrick E. Tondreau was appointed to the Superior Court of Santa Clara County in 2002. He was a judge in Juvenile Court from 2006 until 2019, serving in both the Dependency and the Juvenile Justice Court. He was the Presiding Judge of Juvenile Court from 2008 until 2018 and supervised the Juvenile Justice Division from 2008 until 2017. Judge Tondreau served as a member and Chair of the Juvenile Court Judges of California and was a member of the Family and Juvenile Advisory Committee of the Judicial Council. He chaired a statewide Task Force on Juvenile Competency and a Task Force on Dually Involved Youth. Judge Tondreau served as the Dually Involved Youth Judge in Santa Clara County and chaired its Executive Committee from 2008 until 2019. He was a former President of both the Santa Clara Bar Association and the Silicon Valley Law Foundation. Throughout his legal career, he participated on numerous committees, projects and task forces, including the County’s Human Trafficking Commission and the Mayor’s Gang Prevention Task Force.",
         showBio: false,
       },
-      {
-        board_id: 12,
-        prefix_name: "",
-        first_name: "Theresa",
-        last_name: "Sutton",
-        suffix_name: "J.D.",
-        title: "",
-        img: "./images/board_images/default.png",
-        bio: "A California-licensed attorney with 20+ years of litigation and transactional experience involving complex commercial transactions and disputes. She has several years of experience as an Employee Relations Consultant.",
-        showBio: false,
-      },
+
     ]
