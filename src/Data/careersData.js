@@ -26,7 +26,7 @@ const careersData = [
     job_duties_closing: [],
     job_quals: ["Member in good standing of the State Bar of California","Knowledge and experience of juvenile dependency law preferred","Experience in courtroom advocacy preferred","Ability to work compassionately and respectfully with clients in crisis","High degree of professionalism","Ability to interact respectfully with judicial officers and adhere to the court’s schedule","Demonstrated commitment to public interest issues","Ability to flourish in a high-energy environment","Ability to multi-task and be a productive team player","Excellent verbal, interpersonal, writing, interviewing, and organizational skills", "Bilingual skills preferred","Ability to work collaboratively as part of an interdisciplinary team of social workers and mentor parents",
     ],
-    salary: "$85,500 annually. Medical, dental, and vision coverage available. Generous PTO"
+    salary: "$85,500 to $90,500 depending upon experience. Medical, dental, and vision coverage available. Generous PTO"
   },
   // {
   //   id: "corridor_managing_attorney",
