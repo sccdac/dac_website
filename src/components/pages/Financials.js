@@ -98,7 +98,7 @@ export default function Financials() {
         <div className='financials-graphic-main'>
 
   
-        <h1 className='section-header single-page-header'>FY2023 Annual Report Financials</h1>
+        <h1 className='section-header single-page-header'>FY2024 Annual Report Financials</h1>
         <div className='financials-graphic-container'>
           <div className='financials-graphic'>
             <p className='section-subhead financials-section-subhead'>Revenue & Support</p>
