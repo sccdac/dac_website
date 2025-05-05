@@ -238,7 +238,7 @@ export const staffData = [
         title: "Staff Attorney",
         email: "lbou@sccdac.org",
         img: "./images/staff_images/Lily.jpg",
-        bio: "",
+        bio: "Lily joined the team in 2025 after graduating from Stanford Law School. She represents families in dependency court with the Office of Dependency Counsel and advises parents with DFCS contact on the First Call for Families prevention team. She is dedicated to the fight for family integrity in the face of punitive state systems, and she is inspired by DAC’s clients’ resilience. Outside of work, Lily loves to spend time with friends, cook vegetarian feasts, and ramble around in California’s great outdoors.",
         showBio: false,
       },
       {
@@ -250,7 +250,7 @@ export const staffData = [
         title: "Staff Attorney",
         email: "hhutton@sccdac.org",
         img: "./images/staff_images/Hannah.jpeg",
-        bio: "",
+        bio: "Hannah Hutton (she/they) graduated from the University of San Francisco School of Law, where she used her background in criminology and sociology to focus her studies on critical and intersectional approaches to law and justice. Hannah’s work prior to joining DAC focused on wrongful convictions, policing, and criminal defense. Hannah began working with families in a prevention capacity and now works both on prevention and open dependency cases. Hannah is committed to providing holistic advocacy guided by compassion and care.",
         showBio: false,
       },
       // {
@@ -710,7 +710,7 @@ export const staffData = [
         title: "Staff Attorney",
         email: "lbou@sccdac.org",
         img: "./images/staff_images/Lily.jpg",
-        bio: "",
+        bio: "Lily joined the team in 2025 after graduating from Stanford Law School. She represents families in dependency court with the Office of Dependency Counsel and advises parents with DFCS contact on the First Call for Families prevention team. She is dedicated to the fight for family integrity in the face of punitive state systems, and she is inspired by DAC’s clients’ resilience. Outside of work, Lily loves to spend time with friends, cook vegetarian feasts, and ramble around in California’s great outdoors.",
         showBio: false,
       },
       {
@@ -722,7 +722,7 @@ export const staffData = [
         title: "Staff Attorney",
         email: "hhutton@sccdac.org",
         img: "./images/staff_images/Hannah.jpeg",
-        bio: "",
+        bio: "Hannah Hutton (she/they) graduated from the University of San Francisco School of Law, where she used her background in criminology and sociology to focus her studies on critical and intersectional approaches to law and justice. Hannah’s work prior to joining DAC focused on wrongful convictions, policing, and criminal defense. Hannah began working with families in a prevention capacity and now works both on prevention and open dependency cases. Hannah is committed to providing holistic advocacy guided by compassion and care.",
         showBio: false,
       },
       // {
