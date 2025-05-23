@@ -24,6 +24,27 @@ const newsData = [
   // },
 
   {
+    id: 13,
+    title: "We're Hiring DAC's Next COO!",
+    date: "May 22, 2025",
+    author: "",
+    preface: [""],
+   img: "./images/news_images/coojob.png",
+    imgDesc: "COO Search", 
+    video:"",
+    video_desc: "",
+    second_image: "",
+    second_img_desc: "",
+    body: ["Dependency Advocacy Center (DAC) is seeking a strategic and collaborative leader to serve as its next Chief Operating Officer (COO).", "DAC is engaged in powerful programmatic work, with a staff that is effective, closely bonded, and deeply dedicated to the cause. DAC was founded on the belief that traditional legal advocacy is insufficient to adequately represent families in child welfare cases. Our goal is to promote timely reunification and preservation of families in a safe, healthy environment. Fulfilling our mission requires leadership that is committed to system change through transformative support and well-equipped counsel. Our daily work is motivated by addressing systemic change even as we offer solutions for the current unjust system. DAC is a traumainformed organization that seeks to be a national leader in these efforts to mitigate the harm of, and ultimately transform, the legal system.","The COO is a key member of the Executive Team and is responsible for the overall operations of the organization, including financial health and processes, human resources, contract/grant obligations, organizational policies, fund development, and strategic organizational growth. The COO serves an essential role, connecting the broader vision of our programmatic work with the concrete details and processes needed to bring that vision to reality.","Alongside strong communication and leadership skills, the COO will bring an unwavering commitment to improving the lives of families and communities that is explicitly rooted in racial and social justice. They will be a lifelong learner who prioritizes personal learning and growth alongside organizational evolution to drive continued excellence."],
+    footer: [""],
+    copyright: [""],
+    article_link_copy: "To view the full job description, desired qualifications and steps to apply, click",
+    article_link_last_word: "here",
+    article_link: "https://drive.google.com/file/d/1cKKyH4ul275ZMggUiB6BxY4hQfOCIany/view?usp=sharing",
+  
+    url: "/updates-articles"
+  },
+  {
     id: 12,
     title: "A Letter to Our Colleagues, Community Partners, and Client Families",
     date: "January 17, 2025",
