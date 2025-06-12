@@ -43,6 +43,27 @@ const newsData = [
   
     url: "/updates-articles"
   },
+    {
+    id: 15,
+    title: "We’re Hiring Attorneys!",
+    date: "June 12, 2025",
+    author: "",
+    preface: [""],
+   img: "./images/news_images/hiring1.jpg",
+    imgDesc: "", 
+    video:"",
+    video_desc: "",
+    second_image: "",
+    second_img_desc: "",
+    body: ["Join us in the fight to preserve families and restore dignity through zealous advocacy!","We are looking for passionate and dedicated attorneys to fill the following roles:","⚖️ Staff Attorney","⚖️ Family Defense & Pre-Petition Staff Attorney","If you're committed to advocating for families, we want to hear from you.","Questions? Contact us at DACjobs@sccdac.org"],
+    footer: [""],
+    copyright: [""],
+    article_link_copy: "View full job descriptions and apply",
+    article_link_last_word: "here",
+    article_link: "https://sccdac.org/careers",
+  
+    url: "/updates-articles"
+  },
   {
     id: 13,
     title: "We're Hiring DAC's Next COO!",
