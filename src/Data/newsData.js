@@ -39,7 +39,7 @@ const newsData = [
     copyright: [""],
     article_link_copy: "Click",
     article_link_last_word: "here to donate",
-    article_link: "https://www.paypal.com/donate?token=m8D5BSANlZUmukIX0iJ63pSEbXR0BS1u4a6Ur-_iQTQkIFUbSrudEAL06OFs_mj6wGIcvyfWn3hOzR1t",
+    article_link: "https://sccdac.org/donate",
   
     url: "/updates-articles"
   },
