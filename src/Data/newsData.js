@@ -22,6 +22,27 @@ const newsData = [
   
   //   url: "/updates-articles"
   // },
+    {
+    id: 16,
+    title: "The “Greatest Celebration of the Year!” ",
+    date: "June 16, 2025",
+    author: "",
+    preface: [""],
+   img: "./images/news_images/frday1_2025.jpeg",
+    imgDesc: "", 
+    video:"",
+    video_desc: "",
+    second_image: "./images/news_images/mpp_frday.jpeg",
+    second_img_desc: "DAC's Mentor Parent Program recognized as Community Partner Honoree",
+    body: ["Last week, we joined families, community leaders, and service providers to celebrate Santa Clara County’s 14th Annual Reunification Day, a day dedicated to honoring the power of families reuniting after separation due to the child welfare system.",'This year’s event truly lived up to its reputation as the “Greatest Celebration of the Year!”', "We were incredibly proud to see our very own Mentor Parent Program recognized as the Community Partner Honoree. Our Mentor Parents, who’ve walked the reunification journey themselves, now stand beside other parents, offering guidance, hope, and lived experience. Dave Shuster, Mentor Parent Program Manager, accepted the award and paid tribute to each incredible Mentor Parent.", "We had the privilege of recognizing five extraordinary families who have overcome incredible adversity to reunify with their children. Their courage and determination remind us of what’s possible when the right support systems are in place.","DAC’s CEO, Katie Joh, shared powerful words that captured the spirit of the day:",'“We live in a society that loves to attach labels to people: ‘addict,’ ‘homeless,’ ‘victim,’ ‘safe’ or ‘unsafe’ parent. Reunification Day is a yearly reminder that every person is so much more than the labels put on them, and that every family has the potential to be safe, healthy, and thriving.','No one embodies that transformation better than our DAC mentor parents. They work tirelessly with our parent clients to provide hope, resources, and support for every step of the journey.”', 'DAC’s newest team member, Sasha Nasir, closed out her first week with us by attending this special event. She shared, "Family Reunification Day was a beautiful celebration of resilience, honoring families who have overcome immense challenges to reunite. It was also a powerful reminder of the many people working behind the scenes to make reunification possible, especially DAC’s mentor parents, whose lived experiences bring deep insight, empathy, and hope to this work. This day reaffirmed our commitment to centering families, supporting healing, and making reunification the norm—not the exception."',"💛 Everyone left the day feeling proud, grateful, and inspired.",],
+    footer: [""],
+    copyright: [""],
+    article_link_copy: "✨ To support DAC’s Mentor Parent Program, or the work of Dependency Advocacy Center as a whole,",
+    article_link_last_word: "here",
+    article_link: "https://sccdac.org/donate",
+  
+    url: "/updates-articles"
+  },
   {
     id: 14,
     title: '"The life I live today is a dream come true."',
