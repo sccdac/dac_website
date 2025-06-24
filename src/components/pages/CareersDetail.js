@@ -92,10 +92,12 @@ export default function CareersDetail() {
                 <p className="copy-bold">Application Process</p>
                 <p className="copy">Please submit your cover letter and resume via the "Apply Now" button below.</p>
 
-                <p className="copy">In your cover letter, please include the following information: In order to best serve our clients and our community, DAC is committed to creating a diverse and inclusive workplace in which differences are acknowledged and valued. How has your personal background or experiences, professional or otherwise, prepared you to contribute to social justice, race equity, and diversity among our staff?"</p>
+                <p className="copy">In your cover letter, please include the following information: 
+                  1. Why are you interested in working in the position you are applying and at DAC specifically? 
+                  2. In order to best serve our clients and our community, DAC is committed to creating a diverse and inclusive workplace in which differences are acknowledged and valued. How has your personal background or experiences, professional or otherwise, prepared you to contribute to social justice, race equity, and diversity among our staff?</p>
 
                 {/* <ol className="copy order-list">
-                  <li>Why are you interested in working as a family defense attorney and at DAC specifically?</li>
+                  <li>What interests you about this opportunity and why you want to work at DAC specifically?</li>
                   <li>In order to best serve our clients and our community, DAC is committed to creating a diverse and inclusive workplace in which differences are acknowledged and valued. How has your personal background or experiences, professional or otherwise, prepared you to contribute to social justice, race equity, and diversity among our staff?</li>
                 </ol> */}
     
