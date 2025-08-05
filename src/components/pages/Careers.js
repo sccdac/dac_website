@@ -37,9 +37,9 @@ export default function Careers() {
           <div className='career-title-container'>
  
 
-          <a href={require("../../Data/DAC_COO_2025.pdf")} download="DAC COO Role Description" target="_blank" rel="noopener noreferrer" className='career-link'>
+          {/* <a href={require("../../Data/DAC_COO_2025.pdf")} download="DAC COO Role Description" target="_blank" rel="noopener noreferrer" className='career-link'>
             -<p className="career-title-link link-blue-text">Chief Operating Officer</p>
-          </a>
+          </a> */}
             {careers}
           </div>
         </div>
