@@ -1,5 +1,34 @@
 const careersData = [
+   {
+    id: "Legal_Director",
+    job_title: "Legal Director",
+    job_duties: ["The Legal Director is responsible for coordinating Dependency Advocacy Center’s legal services. The Director reports to executive leadership (Chief Executive Officer, Chief Programs Officer, Chief Operations Officer) and works in close coordination with DAC’s management team","The Legal Director’s responsibilities shall include:"],
+    job_duties_bullets: ["Providing administrative supervision to the attorneys who practice in juvenile dependency court.","Developing sample motions, brief banks, and other practice material that can be utilized by court attorneys.","Providing regular updates on case law and policy relevant to field and practice.","Training new court attorneys and/or legal interns, and developing an onboarding curriculum and structure.","Organizing legal training and professional development opportunities.","Attending local justice partner meetings and meeting with local stakeholders.","Hiring attorneys as needed and developing hiring pipelines for attorney staff.","In conjunction with executive leadership, directing litigation and appellate strategies that further the organization’s overall mission and goals in the child welfare arena."],
+    job_duties_closing: [],
+    job_quals: ["J.D. required, CWLS preferred. Must be licensed attorney in good standing with the State Bar of California.","Minimum 5 years of practice in juvenile dependency court in California.","Minimum 3 years of management and/or supervision experience.","Trained in cultural competency, and trauma-informed practices.","Strong communication and leadership skills, with an ability to vision and implement best practices around legal service delivery.","Understanding of interdisciplinary collaboration between attorneys, social workers, and lived experience experts."
+,
+    ],
+    salary: "$105,000-115,000 annually, DOE. Medical, dental, and vision coverage available."
+  },
   {
+    id: "outreach_coordinator",
+    job_title: "First Call For Families Outreach & Referrals Coordinator",
+    job_duties: ["The outreach and referrals coordinator will be responsible for supporting the planning and coordination of First Call’s community engagement efforts.","Responsibilities include developing and maintaining relationships with community-based organizations, communicating with potential clients, and assisting in First Call’s intake processes. The outreach and referrals coordinator will also serve as a liaison to County DFCS social workers and a point of contact for DFCS social workers making referrals to First Call.","The outreach and referrals coordinator will also participate on an as-needed basis in Child and Family Team (CFT) or Multidisciplinary Team (MDT) meetings arranged by DFCS social workers to facilitate connections between potential clients and the First Call team."],
+    job_duties_bullets: [],
+    job_duties_closing: [],
+    job_quals: ["MSW or MFT preferred but not required.","Strong communication and bridge-building skills.","Connections to service providers and community-based organizations in Santa Clara County.","Ability to work compassionately and respectfully with clients in crisis.","Ability to work collaboratively as part of an interdisciplinary team of attorneys and mentor parents with lived experience.,","Trained in cultural competency, motivational interviewing, and trauma-informed service delivery.","Bilingual skills preferred."],
+    salary: "$79,500 annually, DOE. Medical, dental, and vision coverage available."
+  },
+    {
+    id: "intake_specialist",
+    job_title: "First Call For Families Intake Specialist",
+    job_duties: ["First Call for Families (First Call) is an innovative program operated by DAC. First Call’s goal is to prevent children from being separated from their families by avoiding formal involvement with juvenile dependency court. The First Call team is comprised of attorneys, social workers, and mentor parents working together to support families at risk of losing their children to the child welfare system.","The intake specialist will be responsible for supporting First Call’s intake processes for those who call its Warm Line seeking assistance with preventative services. The Warm Line is a toll-free phone number for families to call for support, basic advice, and/or referrals within the community. Although it does not operate on a 24/7 basis, the First Call team is responsible for ensuring that any calls are returned within 1 business day.","Responsibilities include answering the Warm Line phone, collecting and recording intake data, checking for legal conflicts, assigning consults to attorneys, and managing the consults calendar. The intake specialist will also make referrals to internal and external sources and be responsible for other administrative duties as needed. As approximately 30-40% of the callers to our Warm Line speak Spanish as their primary language, this position requires fluent Spanish speaking and writing abilities."],
+    job_duties_bullets: [],
+    job_duties_closing: [],
+    job_quals: ["Experience conducting intake and entering data.","Experience working in a legal setting and as part of an interdisciplinary team of social workers and mentor parents.","Ability to work compassionately and respectfully with clients in crisis","Spanish fluency required."],
+    salary: "$65,000-$70,000 annually, DOE. Medical, dental, and vision coverage available."
+  },
+      {
     id: "Mentor-Father",
     job_title: "Mentor Father",
     job_duties: ["A mentor parent is a mother or father with previous lived experience in the child welfare system who has successfully reunified with their children and completed their legal case. A mentor parent cannot have any open legal case and the court cannot have jurisdiction over their families. If substance use disorder was an issue in their juvenile dependency case, the mentor parent must possess a personal commitment to a clean and sober lifestyle and understand recovery programming.","This is a full-time mentor father position for a father with a background involving intimate partner violence and/or criminal justice issues. The mentor parent will be working with a dynamic group of attorneys who represent parents involved in the child welfare system who have current or former criminal justice involvement and/or intimate partner violence issues. The mentor father will meet with clients in the community and support them in both their criminal justice related matters and child welfare matters.  They will help the client navigate the court system by providing their own experiences as a parent in the system. Mentors will assist clients in accessing services and identifying community supports with the goal of reducing further criminal justice and child welfare involvement. Mentors will also visit clients in the field (e.g., drug treatment facilities, jails, etc.).  Further, mentors will coach clients on how to interface with service providers both in the criminal justice and dependency settings."],
@@ -63,6 +92,7 @@ const careersData = [
   //   ],
   //   salary: "$85,500 annually. Medical, dental, and vision coverage available. Generous PTO"
   // }, 
+  
 ]
 
 export default careersData
