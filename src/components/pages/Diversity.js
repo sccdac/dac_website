@@ -37,7 +37,7 @@ export default function Diversity() {
           <li>Gildardo Amador</li>
           <li>Hilary Kushins</li>
           <li>Jaime Lopez</li>
-          <li>Rehmi Ruiz</li>
+          <li>Louis Vidal</li>
         </ol>
       </div>
     </section>
