@@ -99,6 +99,17 @@ export const boardData = [
         showBio: false,
       },
       {
+        board_id: 12,
+        prefix_name: "",
+        first_name: "Sue",
+        last_name: "Saign",
+        suffix_name: "J.D.",
+        title: "",
+        img: "./images/board_images/default.png",
+        bio: "Sue Saign graduated Valedictorian of her law school class while working and raising her young son. She opened her family law practice in 2015, immediately after passing the Bar exam, which she has been running for over 10 years. She has served as a professor at Lincoln Law School of San Jose. She has 4 children and loves being a mother. When Sue is not working, she enjoys spending quality time with her family. She also loves to sing, travel, swim and be in service to her community. Sue has received awards and participated in: The Susan O. Fish Award for Alumnus of the Year from her law school, Board of Trustees for the SCCBA, Barristers Leadership Program, William Ingraham Inns of Court 2012-2016, Gilroy Leadership Program: Class of 2016, Office of Violence Against Women Santa Clara County Grant Committee Review Team, Gilroy Chamber of Commerce, Santa Clara County Bar Association, South County Bar Association, Santa Clara County Trial Lawyers Association",
+        showBio: false,
+      },
+      {
         board_id: 8,
         prefix_name: "",
         first_name: "Héctor",
@@ -109,17 +120,7 @@ export const boardData = [
         bio: "Héctor Sánchez-Flores is the Executive Director of the National Network of Compadres (NCN). NCN is an organization that supports organizations and systems whose mission is to serve youth, parents, families, and communities with healing-focused and culturally rooted strategies. NCN’s Ways of Healing help communities develop asset-based services that address historical trauma, racial equity, and dismantling unexamined policies rooted in white supremacy and the oppression of marginalized communities. Hector serves on boards and committees seeking to embrace change that is inclusive and responsive to communities negatively affected by racism, oppression and marginalization. Hector grew up in a family whose parents are from Jalisco, Mexico, specifically from the land of the Wixárika (Huichole) and Naayerite (Cora). He resides in San José, California with his wife, Lucila Ramos-Sánchez, they have two children, Diego and Sophia. He identifies as Mexican, Chicano, and indigenous.",
         showBio: false,
       },
-      // {
-      //   board_id: 12,
-      //   prefix_name: "",
-      //   first_name: "Theresa",
-      //   last_name: "Sutton",
-      //   suffix_name: "J.D.",
-      //   title: "",
-      //   img: "./images/board_images/default.png",
-      //   bio: "Theresa Sutton is counsel at Goodwin Procter LLP in the firm’s Intellectual Property Litigation department focusing on complex commercial litigation. She joined the firm in 2020. Her practice includes counseling, litigating and resolving business disputes with an emphasis on trade secrets, fraud, contracts, and internet-related matters. Theresa volunteered with the Santa Clara County District Attorney’s Office as a Deputy District Attorney, in the Misdemeanor unit. Theresa investigated and tried misdemeanor cases including DUIs, child endangerment, and fraud. While attending law school, Theresa received the Public Interest Award for her work representing children and families navigating Santa Clara County’s juvenile dependency system.",
-      //   showBio: false,
-      // },
+
       // {
       //   board_id: 1,
       //   prefix_name: "Honorable",

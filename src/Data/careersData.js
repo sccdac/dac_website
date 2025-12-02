@@ -8,7 +8,7 @@ const careersData = [
     job_quals: ["J.D. required, CWLS preferred. Must be licensed attorney in good standing with the State Bar of California.","Minimum 5 years of practice in juvenile dependency court in California.","Minimum 3 years of management and/or supervision experience.","Trained in cultural competency, and trauma-informed practices.","Strong communication and leadership skills, with an ability to vision and implement best practices around legal service delivery.","Understanding of interdisciplinary collaboration between attorneys, social workers, and lived experience experts."
 ,
     ],
-    salary: "$105,000-115,000 annually, DOE. Medical, dental, and vision coverage available."
+    salary: "$105,000-125,000 annually, DOE. Medical, dental, and vision coverage available."
   },
   {
     id: "Operations & Program Coordinator",
