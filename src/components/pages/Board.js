@@ -40,7 +40,7 @@ import { boardData } from '../../Data/boardData';
                   </div>
         })}
       
-        <p className='copy board-copy position-center'>If you are interested in serving on the DAC Board of Directors, please email Preeti Mishra at <NavHashLink className="link-blue-text" to="mailto:pmishra@sccdac.org" target="_blank">pmishra@sccdac.org</NavHashLink>.</p>
+        <p className='copy board-copy position-center'>If you are interested in serving on the DAC Board of Directors, please send an email to Tomika Anderson-Smith at <NavHashLink className="link-blue-text" to="mailto:tandersonsmith@sccdac.org" target="_blank">tandersonsmith@sccdac.org</NavHashLink>.</p>
       </div>
     </section>
 
