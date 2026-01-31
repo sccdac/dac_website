@@ -106,7 +106,7 @@ export const boardData = [
         last_name: "Saign",
         suffix_name: "J.D.",
         title: "",
-        img: "./images/board_images/default.png",
+        img: "./images/board_images/sue.png",
         bio: "Sue Saign graduated Valedictorian of her law school class while working and raising her young son. She opened her family law practice in 2015, immediately after passing the Bar exam, which she has been running for over 10 years. She has served as a professor at Lincoln Law School of San Jose. She has 4 children and loves being a mother. When Sue is not working, she enjoys spending quality time with her family. She also loves to sing, travel, swim and be in service to her community. Sue has received awards and participated in: The Susan O. Fish Award for Alumnus of the Year from her law school, Board of Trustees for the SCCBA, Barristers Leadership Program, William Ingraham Inns of Court 2012-2016, Gilroy Leadership Program: Class of 2016, Office of Violence Against Women Santa Clara County Grant Committee Review Team, Gilroy Chamber of Commerce, Santa Clara County Bar Association, South County Bar Association, Santa Clara County Trial Lawyers Association",
         showBio: false,
       },

@@ -36,8 +36,7 @@ export default function Prevention() {
                 <ul className='first-call-hours-list copy'>
                   <li><NavHashLink className="link-blue-text first-call-phone" to="tel:+1408-856-2992" target="_blank"><BsTelephoneFill /> (408) 856-2992</NavHashLink></li>
                   <li>Hours of Operation</li>
-                  <li>Mon-Thurs, 9am-4pm</li>
-                  <li>Evening hours: Thurs, 5pm-8pm</li>
+                  <li>Monday-Friday, 9am-4pm</li>
                 </ul>
               </div>
              
