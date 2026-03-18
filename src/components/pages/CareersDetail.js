@@ -86,8 +86,8 @@ export default function CareersDetail() {
                 <p className="copy">At DAC, we are determined to increase representative diversity within our organization. We aspire to become an actively pro-diversity company and a strong ally to all the communities we serve. We recognize the importance of intentional efforts to support individuals of diverse ethnicities, abilities, genders, gender identities, sexual orientations, ages, and all races and religious affiliations.</p>
                 <p className="copy">Incorporating diversity, equity, and inclusion practices is at the core of our daily work at DAC. We strive to integrate these principles into every aspect of our organization to ensure a welcoming and inclusive environment for all.</p>
 
-                <p className="copy-bold">COVID-19 Considerations:</p>
-                <p className="copy">DAC is taking full precautions to keep their staff and clients safe. DAC requires that all staff be fully vaccinated for COVID-19.</p>
+                {/* <p className="copy-bold">COVID-19 Considerations:</p>
+                <p className="copy">DAC is taking full precautions to keep their staff and clients safe. DAC requires that all staff be fully vaccinated for COVID-19.</p> */}
 
                 <p className="copy-bold">Application Process</p>
                 <p className="copy">Please submit your cover letter and resume via the "Apply Now" button below.</p>
