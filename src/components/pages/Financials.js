@@ -8,11 +8,11 @@ import { Doughnut } from "react-chartjs-2";
 export default function Financials() {
 
   const [revenue, setRevenue] = React.useState({
-    grants: 4695672,
-    inkind: 163288,
-    contributions: 45906,
-    events : 2285,
-    miscellaneous: 30263
+    grants: 4787728,
+    inkind: 23527,
+    contributions: 18998,
+    events : 0,
+    miscellaneous: 37912
   })
   
   ChartJS.register(ArcElement, Tooltip, Legend);
@@ -58,9 +58,9 @@ export default function Financials() {
   };
 
   const [expsenses, setExpenses] = React.useState({
-    program: 3995388,
-    management: 277226,
-    fundraising: 76574,
+    program: 4234411,
+    management: 351752,
+    fundraising: 153959,
   })
   
   ChartJS.register(ArcElement, Tooltip, Legend);
@@ -98,7 +98,7 @@ export default function Financials() {
         <div className='financials-graphic-main'>
 
   
-        <h1 className='section-header single-page-header'>FY2024 Annual Report Financials</h1>
+        <h1 className='section-header single-page-header'>FY2025 Annual Report Financials</h1>
         <div className='financials-graphic-container'>
           <div className='financials-graphic'>
             <p className='section-subhead financials-section-subhead'>Revenue & Support</p>
@@ -114,17 +114,17 @@ export default function Financials() {
           <div className='financials-table two-column'>
             <p className='financials-table-header financials-subhead'>Revenue & Support FY2024</p>
             <div>Grants & Contract Revenue</div>
-            <div>$4,695,672</div> 
+            <div>$4,787,728</div> 
             <div>In-kind Contributions</div> 
-            <div>$163,288</div> 
+            <div>$23,527</div> 
             <div>Contributions</div> 
-            <div>$45,906</div> 
-            <div>Special events, net</div> 
-            <div>$2,285</div> 
+            <div>$18,998</div> 
+            {/* <div>Special events, net</div> 
+            <div>$2,285</div>  */}
             <div>Other revenue</div> 
-            <div>$30,263</div> 
+            <div>$37,912</div> 
             <div className='financials-table-footer-blue'>Total revenues, gains and other support</div>
-            <div className='financials-table-footer-blue'>$4,937,414</div>
+            <div className='financials-table-footer-blue'>$4,868,165</div>
           </div>
         </div>
 
@@ -139,15 +139,15 @@ export default function Financials() {
             </div> : null}
           </div>
           <div className='financials-table two-column'>
-            <p className='financials-table-header financials-subhead'>Functional Expenses FY2024</p>
+            <p className='financials-table-header financials-subhead'>Functional Expenses FY2025</p>
             <div>Program</div>
-            <div>$4,286,984</div> 
+            <div>$4,234,411</div> 
             <div>Management & General</div> 
-            <div>$346,246</div> 
+            <div>$351,752</div> 
             <div>Fundraising</div> 
-            <div>$143,634</div> 
+            <div>$153,959</div> 
             <div className='financials-table-footer-blue'>Total Expenses</div>
-            <div className='financials-table-footer-blue'>$4,776,864</div>
+            <div className='financials-table-footer-blue'>$4,740,122</div>
           </div>
         </div>
         
@@ -155,49 +155,49 @@ export default function Financials() {
       </div>
       <div className='financials-content-bottom burgundy-linear-gradient'>
         <div className='financials-container'>
-          <p className='section-subhead financials-section-subhead'>FY24 Statement of Financial Position</p>
+          <p className='section-subhead financials-section-subhead'>FY25 Statement of Financial Position</p>
           <div className='financials-table three-column'>
             <div className='financials-table bottom-two-column'>
               <p className='financials-table-header financials-subhead'>Assets</p>
               <div>Cash</div>
-              <div>$1,147,240</div> 
+              <div>$1,317,865</div> 
               <div>Grants and contract receivables</div> 
-              <div>$997,474</div> 
+              <div>$995,734</div> 
               <div>Prepaid expenses and deposits</div> 
-              <div>$39,236</div>
+              <div>$45,947</div>
               <div>Operating lease right-of-use asset, net</div> 
-              <div>$684,311</div>
+              <div>$547,054</div>
               <div>Finance lease right-of-use asset</div> 
-              <div>$9,470</div>   
+              <div>$5,804</div>   
               <div>Property and equipment, net</div> 
-              <div>$10,961</div> 
+              <div>$2,173</div> 
               <div className='financials-table-footer-white'>Total Assets: </div>
-              <div className='financials-table-footer-white'>$2,888,692</div>
+              <div className='financials-table-footer-white'>$2,914,577</div>
             </div>
             <div className='financials-table bottom-two-column'>
               <p className='financials-table-header financials-subhead'>Liabilities</p>
               <div>Accounts Payable</div>
-              <div>$22,225</div> 
+              <div>$24,277</div> 
               <div>Accrued Liabilities</div> 
-              <div>$304,050</div> 
+              <div>$332,953</div> 
               <div>Operating lease liability</div> 
-              <div>$688,335</div>  
+              <div>$558,784</div>  
               <div>Finance lease liability</div> 
-              <div>$9,563</div>  
+              <div>$6,001</div>  
               <div className='financials-table-footer-white'>Total Liabilities:</div>
-              <div className='financials-table-footer-white'>$1,024,173</div>
+              <div className='financials-table-footer-white'>$922,015</div>
             </div>
             <div className='financials-table bottom-two-column'>
               <p className='financials-table-header financials-subhead'>Net Assets</p>
               <div>Without donor restrictions</div>
-              <div>$1,734,979</div> 
+              <div>$1,695,182</div> 
               <div>With donor restrictions</div> 
-              <div>$129,540</div>   
+              <div>$297,380</div>   
               <div className='financials-table-footer-white'>Total Net Assets:</div>
-              <p className='financials-table-footer-white'>$1,864,519</p>
+              <p className='financials-table-footer-white'>$1,992,562</p>
             </div>   
           </div>
-          <div className='main-table-footer'>Total Liabilities and Net Assets: $2,888,692</div>  
+          <div className='main-table-footer'>Total Liabilities and Net Assets: $2,914,577</div>  
         </div>
   
           
@@ -211,9 +211,9 @@ export default function Financials() {
             </div>
             <div className='financials-downloads'>Financial Audits: 
 
-              <a href={require("../../Data/FinancialReports/FY22.Audit.pdf")} download="FY22 Financial Audit" target="_blank" rel="noopener noreferrer" className='link-white-text'>FY22</a>,
               <a href={require("../../Data/FinancialReports/FY23.Audit.pdf")} download="FY23 Financial Audit" target="_blank" rel="noopener noreferrer" className='link-white-text'>FY23</a>,
-              <a href={require("../../Data/FinancialReports/FY24.Audit.pdf")} download="FY24 Financial Audit" target="_blank" rel="noopener noreferrer" className='link-white-text'>FY24</a>
+              <a href={require("../../Data/FinancialReports/FY24.Audit.pdf")} download="FY24 Financial Audit" target="_blank" rel="noopener noreferrer" className='link-white-text'>FY24</a>,
+              <a href={require("../../Data/FinancialReports/FY25.Audit.pdf")} download="FY25 Financial Audit" target="_blank" rel="noopener noreferrer" className='link-white-text'>FY25</a>
             </div>       
           </div>   
         </div>
