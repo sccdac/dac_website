@@ -19,7 +19,7 @@ export default function IntroHome() {
         <div className='intro-cta cta-btn btn-hover'>Contact Us</div>
       </NavHashLink>
 
-      <div className='intro-closure-banner'>
+      {/* <div className='intro-closure-banner'>
         It is with much sadness that we are announcing the closure of Dependency Advocacy Center. Read DAC&apos;s full statement{' '}
         <a
           href='https://sccdac.org/updates-articles/26'
@@ -28,7 +28,7 @@ export default function IntroHome() {
           here
         </a>
         .
-      </div>
+      </div> */}
       
     </section>
   )
