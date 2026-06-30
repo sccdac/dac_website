@@ -11,7 +11,7 @@ import FirstCallVideos from './FirstCallVideos'
 export default function Prevention() {
   return (
     <section id='first-call' className='what-we-do-section'>
-      <div className='programs-section-background intro-content-container lightblue-gradient'>
+      {/* <div className='programs-section-background intro-content-container lightblue-gradient'>
         <img src={singlePageTop} className='section-graphic single-page-graphic programs-top' alt='' />
           <div className='program-content-container'>
             <div className='programs-intro'>
@@ -46,9 +46,9 @@ export default function Prevention() {
               </div>
              
           </div>
-        </div>
+        </div> */}
 
-        <div className='programs-section-background corridor-section pink-linear-gradient'>
+        <div className='programs-section-background intro-content-container corridor-section pink-linear-gradient'>
           <div className='program-content-container'>
             <div id="corridor" ></div>
             <h1 className='programs section-header single-page-header corridor-subheader'>Corridor Program</h1>

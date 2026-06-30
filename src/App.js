@@ -12,7 +12,7 @@ import NewsArticles from './components/pages/NewsArticles';
 import Donate from './components/pages/Donate';
 import Careers from './components/pages/Careers';
 import NewsArticleDetail from './components/pages/NewsArticleDetail';
-import Staff from './components/pages/Staff';
+// import Staff from './components/pages/Staff';
 import Board from './components/pages/Board';
 import Financials from './components/pages/Financials';
 import Impact from './components/pages/Impact';
@@ -39,7 +39,7 @@ function App() {
             <Route path="/" element={<Home />} />
 
             <Route path="mission-vision" element={<MissionVision />} />
-            <Route path="staff" element={<Staff />} />
+            {/* <Route path="staff" element={<Staff />} /> */}
             <Route path="board" element={<Board />} />
             <Route path="financials" element={<Financials />} />
             <Route path="impact" element={<Impact />} />
