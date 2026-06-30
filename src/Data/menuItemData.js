@@ -10,10 +10,10 @@ export const menuItemData = [
         title: 'Mission & Vision',
         url: 'mission-vision',
       },
-      // {
-      //   title: 'Staff',
-      //   url: 'staff',
-      // },
+      {
+        title: 'Staff',
+        url: 'staff',
+      },
       {
         title: 'Board of Directors',
         url: 'board',
