@@ -52,7 +52,7 @@ export default function Footer() {
             <Link to="/#contact">31 N. Second Street, Suite 300<br/> San Jose, CA 95113</Link>
             <Link className='footer-link' to="tel:+1408-995-0714" target="_blank">Main: 408-995-0714</Link>
             <NavHashLink to="/#contact" className='footer-link'>Fax: 408-516-3812</NavHashLink>
-            <NavHashLink className='footer-link' to="mailto:dac@sccdac.org" target="_blank">dac@sccdac.org</NavHashLink>
+            <NavHashLink className='footer-link' to="mailto:info@sccdac.org" target="_blank">info@sccdac.org</NavHashLink>
           </ul>
 
           <ul className='footer-right-bottom'>
